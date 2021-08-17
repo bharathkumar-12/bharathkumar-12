@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Vue JS**
 
-- 🌱 I’m currently learning **Mongo DB, AWS, React JS**
+- 🌱 I’m currently learning **Mongo DB, AWS**
 
 - 👯 I’m looking to collaborate on **Vue JS, Bootstrap**
 
