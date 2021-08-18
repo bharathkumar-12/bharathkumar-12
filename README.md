@@ -29,6 +29,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathkumar-12&show_icons=true&locale=en&layout=compact" alt="bharathkumar-12" /></p>
 
+![Bharath GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathkumar-12&count_private=true)
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathkumar-12&show_icons=true&locale=en" alt="bharathkumar-12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar-12&" alt="bharathkumar-12" /></p>
