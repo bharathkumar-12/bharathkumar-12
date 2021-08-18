@@ -30,6 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumar-12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bharathkumar-12)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Bharath Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathkumar-12&count_private=true&show_icons=true)
