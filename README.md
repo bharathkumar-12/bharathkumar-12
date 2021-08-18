@@ -32,7 +32,7 @@
 
 
 
-![Bharath Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathkumar-12&count_private=true&show_icons=true&theme=dark)
+![Bharath Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathkumar-12&count_private=true&show_icons=true)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar-12&theme=dark" alt="bharathkumar-12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar-12" alt="bharathkumar-12" /></p>
