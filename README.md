@@ -16,7 +16,7 @@
 
 
 **RESTful APIs Integration:**
-Successfully integrated RESTful APIs into Vue.js applications, leveraging Axios or Vue Resource libraries for efficient data retrieval and manipulation. 
+- Successfully integrated RESTful APIs into Vue.js applications, leveraging Axios or Vue Resource libraries for efficient data retrieval and manipulation. 
 Implemented asynchronous data handling techniques to enable real-time updates and provide dynamic user experiences.
 
 **Responsive Web Design and Cross-Browser Compatibility:**
