@@ -6,18 +6,6 @@
 
 ------------
 
-
-**Summary: **
-Experienced frontend developer specializing in Vue.js, with expertise in creating exceptional user experiences and intuitive interfaces. Skilled in building scalable web applications, optimizing performance, and ensuring cross-browser compatibility. Proven ability to translate client requirements into efficient code. Strong problem-solving and collaboration skills.
-
-------------
-
-
-**Key Skills**
-Vue.js :tw-25aa: Nuxt.js :tw-25aa: JavaScript (ES6 – ES7 – ES8) :tw-25aa: RESTful APIs :tw-25aa: Vue CLI :tw-25aa: HTML & CSS :tw-25aa: Git :tw-25aa: Responsive Web Design    :tw-25aa: Cross-Browser Compatibility :tw-25aa: Performance Optimization :tw-25aa: Testing and Debugging :tw-25aa: UI/UX Integration :tw-25aa: Team Collaboration
-
-------------
-
 **Nuxt.js Expertise:**
 - Led the development of high-performance and scalable applications using the power of Nuxt.js framework for server-side rendered (SSR) and single-page applications (SPA). Engineered lightning-fast initial page loads and enhanced search engine optimization (SEO) capabilities through the implementation of SSR applications with Nuxt.js.
 - Delivered smooth and interactive user interfaces by leveraging dynamic routing, efficient data fetching, and state management using Nuxt.js.
