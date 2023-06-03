@@ -1,51 +1,47 @@
 <h1 align="center">Hi 👋, I'm Bharath Kumar</h1>
 <h3 align="center">Frontend Developer | Vue.js Expert | Nuxt.js Specialist</h3>
 
-Passionate frontend developer with 3 years of experience using Vue.js, JavaScript, HTML5, and CSS to build robust and visually stunning user interfaces. Proven track record of delivering high-quality projects in fast-paced environments. Committed to staying updated with the latest technologies and industry trends.
 
-Summary:
+> Passionate frontend developer with 3 years of experience using Vue.js, JavaScript, HTML5, and CSS to build robust and visually stunning user interfaces. Proven track record of delivering high-quality projects in fast-paced environments. Committed to staying updated with the latest technologies and industry trends.
+
+------------
+
+
+**Summary: **
 Experienced frontend developer specializing in Vue.js, with expertise in creating exceptional user experiences and intuitive interfaces. Skilled in building scalable web applications, optimizing performance, and ensuring cross-browser compatibility. Proven ability to translate client requirements into efficient code. Strong problem-solving and collaboration skills.
 
-Key Skills:
-Vue.js
-Nuxt.js
-JavaScript (ES6 – ES7 – ES8)
-RESTful APIs
-Vue CLI
-HTML & CSS
-Git
-Responsive Web Design
-Cross-Browser Compatibility
-Performance Optimization
-Testing and Debugging
-UI/UX Integration
-Team Collaboration
+------------
 
-Nuxt.js Expertise:
 
-Led the development of high-performance and scalable applications using the power of Nuxt.js framework for server-side rendered (SSR) and single-page applications (SPA).
-Engineered lightning-fast initial page loads and enhanced search engine optimization (SEO) capabilities through the implementation of SSR applications with Nuxt.js.
-Delivered smooth and interactive user interfaces by leveraging dynamic routing, efficient data fetching, and state management using Nuxt.js.
-Vue.js Proficiency:
+**Key Skills**
+Vue.js :tw-25aa: Nuxt.js :tw-25aa: JavaScript (ES6 – ES7 – ES8) :tw-25aa: RESTful APIs :tw-25aa: Vue CLI :tw-25aa: HTML & CSS :tw-25aa: Git :tw-25aa: Responsive Web Design    :tw-25aa: Cross-Browser Compatibility :tw-25aa: Performance Optimization :tw-25aa: Testing and Debugging :tw-25aa: UI/UX Integration :tw-25aa: Team Collaboration
 
-Demonstrated expertise in developing robust and interactive web applications using Vue.js, employing its component-based architecture and powerful features.
-Ensured seamless data flow between components and created exceptional user experiences.
-RESTful APIs Integration:
+------------
 
-Successfully integrated RESTful APIs into Vue.js applications, leveraging Axios or Vue Resource libraries for efficient data retrieval and manipulation.
+**Nuxt.js Expertise:**
+- Led the development of high-performance and scalable applications using the power of Nuxt.js framework for server-side rendered (SSR) and single-page applications (SPA). Engineered lightning-fast initial page loads and enhanced search engine optimization (SEO) capabilities through the implementation of SSR applications with Nuxt.js.
+- Delivered smooth and interactive user interfaces by leveraging dynamic routing, efficient data fetching, and state management using Nuxt.js.
+
+**Vue.js Proficiency:**
+- Demonstrated expertise in developing robust and interactive web applications using Vue.js, employing its component-based architecture and powerful features. 
+- Ensured seamless data flow between components and created exceptional user experiences.
+
+
+**RESTful APIs Integration:**
+Successfully integrated RESTful APIs into Vue.js applications, leveraging Axios or Vue Resource libraries for efficient data retrieval and manipulation. 
 Implemented asynchronous data handling techniques to enable real-time updates and provide dynamic user experiences.
-Responsive Web Design and Cross-Browser Compatibility:
 
-Developed visually appealing web applications with responsive design, ensuring optimal user experiences across various devices and screen sizes.
-Conducted thorough testing to ensure cross-browser compatibility and consistent functionality across major browsers.
-Performance Optimization and Testing:
+**Responsive Web Design and Cross-Browser Compatibility:**
+- Developed visually appealing web applications with responsive design, ensuring optimal user experiences across various devices and screen sizes. 
+- Conducted thorough testing to ensure cross-browser compatibility and consistent functionality across major browsers.
 
-Applied advanced optimization techniques, such as code splitting, lazy loading, and caching, to fine-tune Vue.js applications for maximum performance and optimal user experience.
-Conducted comprehensive testing and debugging to identify and resolve frontend issues, ensuring high application stability and user satisfaction.
-UI/UX Integration and Team Collaboration:
+**Performance Optimization and Testing:**
+- Applied advanced optimization techniques, such as code splitting, lazy loading, and caching, to fine-tune Vue.js applications for maximum performance and optimal user experience. 
+- Conducted comprehensive testing and debugging to identify and resolve frontend issues, ensuring high application stability and user satisfaction.
 
-Collaborated closely with UI/UX designers to translate wireframes and mockups into pixel-perfect front-end code, ensuring a polished and visually stunning user interface.
-Played an integral role in collaborating with cross-functional teams, including designers and backend developers, to architect and develop complex applications, ensuring smooth project execution and high-quality deliverables.
+**UI/UX Integration and Team Collaboration:**
+- Collaborated closely with UI/UX designers to translate wireframes and mockups into pixel-perfect front-end code, ensuring a polished and visually stunning user interface.
+- Played an integral role in collaborating with cross-functional teams, including designers and backend developers, to architect and develop complex applications, ensuring smooth project execution and high-quality deliverables.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumar-12&label=Profile%20views&color=0e75b6&style=flat" alt="bharathkumar-12" /> </p>
 
