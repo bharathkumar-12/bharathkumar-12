@@ -67,3 +67,4 @@ Implemented asynchronous data handling techniques to enable real-time updates an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathkumar-12&show_icons=true&locale=en" alt="bharathkumar-12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar-12&" alt="bharathkumar-12" /></p>
+[![bharathkumar-12's GitHub | Stats](https://stats.quine.sh/bharathkumar-12/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=bharathkumar-12)
