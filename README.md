@@ -39,8 +39,6 @@ Implemented asynchronous data handling techniques to enable real-time updates an
 
 - 🤝 I’m looking for help with **Nuxt JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bharathkumar-12](https://github.com/bharathkumar-12)
-
 - 📝 I regularly write articles on Vue JS
 
 - 💬 Ask me about **Vue**
