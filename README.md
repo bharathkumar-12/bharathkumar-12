@@ -31,12 +31,6 @@ Implemented asynchronous data handling techniques to enable real-time updates an
 - Collaborated closely with UI/UX designers to translate wireframes and mockups into pixel-perfect front-end code, ensuring a polished and visually stunning user interface.
 - Played an integral role in collaborating with cross-functional teams, including designers and backend developers, to architect and develop complex applications, ensuring smooth project execution and high-quality deliverables.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumar-12&label=Profile%20views&color=0e75b6&style=flat" alt="bharathkumar-12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathkumar-12" alt="bharathkumar-12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bharathwebdev" target="blank"><img src="https://img.shields.io/twitter/follow/bharathwebdev?logo=twitter&style=for-the-badge" alt="bharathwebdev" /></a> </p>
-
 - 🔭 I’m currently working on **Vue JS, Nuxt JS**
 
 - 🌱 I’m currently learning **Node JS**
