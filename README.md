@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Vue.js Expert | Nuxt.js Specialist</h3>
 
 
-> Passionate frontend developer with 3 years of experience using Vue.js, JavaScript, HTML5, and CSS to build robust and visually stunning user interfaces. Proven track record of delivering high-quality projects in fast-paced environments. Committed to staying updated with the latest technologies and industry trends.
+> Passionate frontend developer with 4+ years of experience using Vue.js, JavaScript, HTML5, and CSS to build robust and visually stunning user interfaces. Proven track record of delivering high-quality projects in fast-paced environments. Committed to staying updated with the latest technologies and industry trends.
 
 ------------
 
