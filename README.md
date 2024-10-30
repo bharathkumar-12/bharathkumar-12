@@ -1,59 +1,27 @@
-<h1 align="center">Hi 👋, I'm Bharath Kumar</h1>
-<h3 align="center">Frontend Developer | Vue.js Expert | Nuxt.js Specialist</h3>
+# 💫 About Me:
+### Hi there 👋, I'm Bharath Kumar!<br><br>I'm a passionate **Frontend Developer** with 4 years of experience, primarily focused on building intuitive user interfaces using **Vue.js** and **Nuxt.js**. My journey in web development has allowed me to specialize in crafting scalable and visually appealing solutions that offer an excellent user experience.<br><br>💻 **Tech Stack:** Vue.js, Nuxt.js, JavaScript, HTML, CSS, Tailwind CSS, Node.js  <br>📚 **Learning:** React, Cypress, Jest, UI/UX Design  <br>🌟 **Fun Fact:** I love exploring innovative solutions in frontend development and UI/UX design to deliver a seamless experience!  <br><br>
 
 
-> Passionate frontend developer with 4+ years of experience using Vue.js, JavaScript, HTML5, and CSS to build robust and visually stunning user interfaces. Proven track record of delivering high-quality projects in fast-paced environments. Committed to staying updated with the latest technologies and industry trends.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathkumarakkiraju/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BharathWebDev) 
 
-------------
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bharathkumar-12&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar-12&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumar-12&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Nuxt.js Expertise:**
-- Led the development of high-performance and scalable applications using the power of Nuxt.js framework for server-side rendered (SSR) and single-page applications (SPA). Engineered lightning-fast initial page loads and enhanced search engine optimization (SEO) capabilities through the implementation of SSR applications with Nuxt.js.
-- Delivered smooth and interactive user interfaces by leveraging dynamic routing, efficient data fetching, and state management using Nuxt.js.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bharathkumar-12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Vue.js Proficiency:**
-- Demonstrated expertise in developing robust and interactive web applications using Vue.js, employing its component-based architecture and powerful features. 
-- Ensured seamless data flow between components and created exceptional user experiences.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bharathkumar-12&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
-**RESTful APIs Integration:**
-- Successfully integrated RESTful APIs into Vue.js applications, leveraging Axios or Vue Resource libraries for efficient data retrieval and manipulation. 
-Implemented asynchronous data handling techniques to enable real-time updates and provide dynamic user experiences.
+---
+[![](https://visitcount.itsvg.in/api?id=bharathkumar-12&icon=1&color=1)](https://visitcount.itsvg.in)
 
-**Responsive Web Design and Cross-Browser Compatibility:**
-- Developed visually appealing web applications with responsive design, ensuring optimal user experiences across various devices and screen sizes. 
-- Conducted thorough testing to ensure cross-browser compatibility and consistent functionality across major browsers.
-
-**Performance Optimization and Testing:**
-- Applied advanced optimization techniques, such as code splitting, lazy loading, and caching, to fine-tune Vue.js applications for maximum performance and optimal user experience. 
-- Conducted comprehensive testing and debugging to identify and resolve frontend issues, ensuring high application stability and user satisfaction.
-
-**UI/UX Integration and Team Collaboration:**
-- Collaborated closely with UI/UX designers to translate wireframes and mockups into pixel-perfect front-end code, ensuring a polished and visually stunning user interface.
-- Played an integral role in collaborating with cross-functional teams, including designers and backend developers, to architect and develop complex applications, ensuring smooth project execution and high-quality deliverables.
-
-- 🔭 I’m currently working on **Vue JS, Nuxt JS**
-
-- 🌱 I’m currently learning **Node JS**
-
-- 👯 I’m looking to collaborate on **Vue JS, Bootstrap**
-
-- 🤝 I’m looking for help with **Nuxt JS**
-
-- 📝 I regularly write articles on Vue JS
-
-- 💬 Ask me about **Vue**
-
-- 📫 How to reach me **bharathkumarakkiraju@gmail.com**
-
-<p align="left">
-<a href="https://twitter.com/bharathwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharathwebdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bharathkumarakkiraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathkumarakkiraju" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![bharathkumar-12's GitHub | Languages Over Time](https://stats.quine.sh/bharathkumar-12/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=bharathkumar-12)
-
-[![bharathkumar-12's GitHub | Topics Over Time](https://stats.quine.sh/bharathkumar-12/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=bharathkumar-12)
-
-[![bharathkumar-12's GitHub | Stats](https://stats.quine.sh/bharathkumar-12/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=bharathkumar-12)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
