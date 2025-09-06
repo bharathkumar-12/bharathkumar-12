@@ -47,15 +47,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bharathkumarakkiraju/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" style="margin-right: 15px;">
   </a>
   <a href="mailto:bharathkumarakkiraju@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" style="margin-right: 15px;">
   </a>
   <a href="https://x.com/BharathWebDev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" alt="Twitter">
   </a>
 </p>
+
 
 ---
 
