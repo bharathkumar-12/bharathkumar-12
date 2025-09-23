@@ -24,10 +24,10 @@ My expertise spans the full frontend development lifecycle, from translating hig
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,tailwind,html,css)](https://skillicons.dev)
 
 **Architecture & Quality Assurance:**
-[![My Skills](https://skillicons.dev/icons?i=pinia,jest,cypress,storybook,vuetify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pinia,jest,cypress,vuetify,storybook)](https://skillicons.dev)
 
 **Tools & DevOps:**
-[![My Skills](https://skillicons.dev/icons?i=git,github,actions,vite,webpack,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vite,webpack,postman,figma,actions)](https://skillicons.dev)
 
 ---
 
