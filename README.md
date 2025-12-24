@@ -31,21 +31,6 @@ My expertise spans the full frontend development lifecycle, from translating hig
 
 ---
 
-### 📈 GitHub Activity & Contributions
-
-This section showcases my coding activity, language proficiency, and consistent engagement.
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bharathkumar-12&radius=16&theme=vue&area=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=bharathkumar-12&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=bharathkumar-12&locale=en&mode=daily&theme=vue&hide_border=true&border_radius=5)
-
-</div>
-
----
-
 ### 🎯 Professional Focus & Goals
 
 I am driven by the challenge of building products that are not only functional but also delightful and intuitive to use. My current professional objectives include:
