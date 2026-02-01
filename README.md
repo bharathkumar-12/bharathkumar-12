@@ -39,4 +39,3 @@ I am driven by the challenge of building products that are not only functional b
 -   **Architecting Scalable Systems:** Focusing on building maintainable and scalable component libraries and design systems, particularly within a monorepo structure.
 -   **Contributing to Open Source:** Seeking impactful open-source projects within the Vue.js and performance optimization ecosystems where I can contribute and collaborate.
 
----
