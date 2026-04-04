@@ -1,19 +1,26 @@
 # Bharath Kumar 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=00DC82&width=600&lines=Senior+Frontend+Engineer;Vue+%2F+Nuxt+Specialist;Building+for+Global+Teams)
 
+
+Senior Frontend Engineer with 6+ years building scalable, high-performance web applications
+for global clients across the US, EU, and APAC markets. Specialized in Vue.js & Nuxt.js —
+with a proven record of improving Core Web Vitals, cutting production bugs by 50%+,
+and architecting multi-tenant SSR systems that serve thousands of users reliably.
+
 <p align="left">
+  <a href="https://bharathkumar.pro">
+  <img src="https://img.shields.io/badge/Portfolio-%2300DC82.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+  
   <a href="https://www.linkedin.com/in/bharathkumarakkiraju/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+ 
   <a href="https://x.com/BharathWebDev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:bharathkumarakkiraju@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+   <a href="https://x.com/BharathWebDev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
-
-A results-driven Frontend Engineer specializing in architecting high-performance, scalable web applications with **Vue.js & Nuxt.js**. I have a proven track record of improving Core Web Vitals, reducing production bugs by over 50%, and enhancing user satisfaction through meticulous performance optimization and robust testing architectures.
 
 ---
 
