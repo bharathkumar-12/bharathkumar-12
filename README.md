@@ -39,11 +39,10 @@ My expertise spans the full frontend development lifecycle, from translating hig
 
 ---
 
-### 🎯 Professional Focus & Goals
+🎯 What I'm focused on right now
 
-I am driven by the challenge of building products that are not only functional but also delightful and intuitive to use. My current professional objectives include:
-
--   **Deepening Expertise in Performance Optimization:** Actively working on advanced techniques to improve web vitals (LCP, FCP, TTI) and deliver superior, high-speed user experiences.
--   **Architecting Scalable Systems:** Focusing on building maintainable and scalable component libraries and design systems, particularly within a monorepo structure.
--   **Contributing to Open Source:** Seeking impactful open-source projects within the Vue.js and performance optimization ecosystems where I can contribute and collaborate.
+- Pushing SSR performance further — LCP under 1.5s, zero layout shift, real Core Web Vitals wins
+- Building open-source tooling around Nuxt 3 multi-tenant architecture
+- Integrating AI workflows into frontend systems that actually ship to production
+- Taking on remote contracts with US/EU product teams where ownership matters
 
