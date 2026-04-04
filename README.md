@@ -46,3 +46,5 @@ My expertise spans the full frontend development lifecycle, from translating hig
 - Integrating AI workflows into frontend systems that actually ship to production
 - Taking on remote contracts with US/EU product teams where ownership matters
 
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bharathkumar-12&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=00DC82&line=00DC82&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
