@@ -1,4 +1,5 @@
-# Bharath Kumar | Senior Frontend Engineer
+# Bharath Kumar 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=00DC82&width=600&lines=Senior+Frontend+Engineer;Vue+%2F+Nuxt+Specialist;Building+for+Global+Teams)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bharathkumarakkiraju/" target="_blank">
