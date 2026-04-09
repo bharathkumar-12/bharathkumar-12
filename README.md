@@ -1,7 +1,6 @@
 # Bharath Kumar 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=00DC82&width=600&lines=Senior+Frontend+Engineer;Vue+%2F+Nuxt+Specialist;Building+for+Global+Teams)
 
-
 Senior Frontend Engineer with 6+ years building scalable, high-performance web applications
 for global clients across the US, EU, and APAC markets. Specialized in Vue.js & Nuxt.js —
 with a proven record of improving Core Web Vitals, cutting production bugs by 50%+,
